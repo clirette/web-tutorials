@@ -1,3 +1,3 @@
 # Web Tutorials
 ## Lessons
-- [Name Alert](./name-alert/README.MD)
+- [Name Alert](./name-alert)
